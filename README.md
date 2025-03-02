@@ -60,11 +60,11 @@ Enter username and password to access the system based on your role.
 Patients can enter an amount, choose billing strategy (self-pay or insurance), and apply for VIP status for additional discounts.
 
 ## Design Patterns Explained
-- **Factory Pattern**: Used to create user instances based on roles.
-- **Proxy Pattern**: Provides controlled access to the system for secure login.
-- **Singleton Pattern**: Ensures only one instance of the FileDatabase exists.
-- **Decorator Pattern**: Adds optional VIP discount functionality to Patient billing.
-- **Strategy Pattern**: Supports multiple billing strategies (self-pay or insurance).
+- **Factory Pattern**: Used to create user instances based on roles. [Learn More](https://github.com/kshitij7704/Design_Pattern/tree/main/Factory%20Design%20Pattern)
+- **Proxy Pattern**: Provides controlled access to the system for secure login. [Learn More](https://github.com/kshitij7704/Design_Pattern/tree/main/Proxy%20Design%20Pattern)
+- **Singleton Pattern**: Ensures only one instance of the FileDatabase exists. [Learn More](https://github.com/kshitij7704/Design_Pattern/tree/main/Sigleton%20Design%20Pattern)
+- **Decorator Pattern**: Adds optional VIP discount functionality to Patient billing. [Learn More](https://github.com/kshitij7704/Design_Pattern/tree/main/Decorator%20Design%20Pattern)
+- **Strategy Pattern**: Supports multiple billing strategies (self-pay or insurance). [Learn More](https://github.com/kshitij7704/Design_Pattern/tree/main/Strategy%20Design%20Pattern)
   
 ## Example Workflow
 - **Register as Admin**: The Admin can log in and view all user records.
