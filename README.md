@@ -32,7 +32,7 @@ A Java-based Hospital Management System that demonstrates various design pattern
 ### Running the Project
 1. **Clone the Repository** (or download the files if using a ZIP):
    ```bash
-   git clone https://github.com/your-username/hospital-management-system.git
+   git clone https://github.com/kshitij7704/Hospital_Management_System_Using_Design_Pattern.git
    cd hospital-management-system
 2. **Compile and Run the Program**:
    - Compile:
